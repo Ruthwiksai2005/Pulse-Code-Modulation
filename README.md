@@ -128,12 +128,10 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
 <img width="776" height="626" alt="image" src="https://github.com/user-attachments/assets/a470e2ee-9f36-461b-ab3d-58fe84fe03e7" />
 
 <img width="1037" height="501" alt="image" src="https://github.com/user-attachments/assets/3c4449e5-b122-4244-bf97-efbdce63e6d6" />
 
-```
 # Results
 ```
 Thus, the modulation and demodulation of PCM, and DM were verified.
